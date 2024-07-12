@@ -65,5 +65,6 @@ rosdep update
 ```
 roscore
 ```
-<img width="383" alt="Screenshot 2022-07-15 162736-ros" src="https://user-images.githubusercontent.com/107959289/179233056-91d1174f-623b-45e7-b220-bfd90984b99c.png">
+![6E32883C-D0DE-4943-AD13-1442964EE947](https://github.com/user-attachments/assets/92dc3fb0-b26b-4b9b-a3bc-a07569d0c38d)
+
 http://wiki.ros.org/noetic/Installation/Ubuntu
